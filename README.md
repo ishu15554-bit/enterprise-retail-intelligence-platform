@@ -754,7 +754,6 @@ The project demonstrates the ability to:
 and convert raw retail transaction data into a business-focused decision-support solution.
 
 ---
-
 # 👤 AUTHOR
 
 <div align="center">
@@ -765,15 +764,8 @@ and convert raw retail transaction data into a business-focused decision-support
 
 Power BI • Python • SQL • DAX • Power Query • RFM Analysis • Predictive Analytics • Business Intelligence
 
-</div>
+### 👤 Ishu Sharma
 
----
-
-<div align="center">
-
-### ⭐ From Raw Data to Business Intelligence
-
-**Analyze • Understand • Predict • Act**
+**[LinkedIn](https://www.linkedin.com/in/ishu-sharma-b1b5a8378/)**
 
 </div>
-````
